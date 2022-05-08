@@ -1,4 +1,3 @@
-# https://galive007.github.io/quick/
-
-quick
+# quick
+https://galive007.github.io/quick/
 Hw
